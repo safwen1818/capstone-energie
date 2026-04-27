@@ -1,0 +1,10 @@
+{
+  "name": "capstone-energie",
+  "version": "1.0.0",
+  "description": "Analyse de factures énergie B2B avec IA",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
